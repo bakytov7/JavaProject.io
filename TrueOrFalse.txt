@@ -1,100 +1,29 @@
 Bran is Aria's brother(Game of Thrones).%True
 It is illegal to be FAT in Japan.%True
-The novel Frankenstein was written by a woman.%True
-George Orwell only wrote one book: the famous 1984.%False
+Euron Greyjoy was killed by Balon Greyjoy(Game of Thrones).%False
+It rains DIOMONDS on Jupiter.%True
+Right-handed people live longer than left-handed people.%False
+Christiano Ronaldo have won the Ballon d'Or five times.%True
 Edgar Allan Poe wrote Dracula.%False
-Sergei Rachmaninoff participated in the October Revolution, alongside Lenin.%False
-There are no visible brush marks on the Mona Lisa.%True
-Leonardo da Vinci painted the Mona Lisa in 8 months.%False
-Penguins are found in Africa.%True
-Cats can drink saltwater.%True
-A cat can see in complete darkness.%False
-A cat�s sense of smell is not as good as a human�s.%False
-Cats rarely meow to communicate amongst themselves.%True
-baby giraffe begins life by falling.%True
-The long horn of the narwhal is an outgrowth of his left canine.%True
-The polar bear is a very protective father.%False
-The beluga is a solitary animal and flees from its fellows except during the breeding season.%False
-Cloned animals age prematurely.%False
-Fencing is one of the sports of the modern pentathlon.%True
-The Sherpas of northern Finland are famous for their polar expeditions.%False
-Triumph of the Will, by pioneering filmmaker Leni Riefenstahl, helped expose the horrors of the Holocaust.%False
-Brazil has won more World Cup (football) championships than any other country.%True
-England won the World Cup (football)twice.%False
-France won the first World Cup (football) in 1930.%False
 Pele is the only football player who has been world champion three times.%True
-The last World Cup (2014) was won by Brazil.%False
-In 2020, Japan will welcome its fourth Olympic Games.%True
-During the 1900 Games, hundreds of pigeons died in shooting competitions.%True
-Serena Williams won two Olympic gold medals for singles: at the London and Sydney Games.%False
-A tennis court has a length of 90 ft. (27.43 m) and a width of 28 ft. (8.53 m).%False
-The hottest part of Earth (its core) is solid.%True
-Issyk-Kul is second largest mountain lake.%True
-Kyrgyzstan is bordered by China to the north.%False
-Bishkek is the capital and largest city of the Kyrgyz Republic.%True
+Leonardo da Vinci painted the Mona Lisa in 8 months.%False
+You can marry a dead person in France.%True
 Jengish Chokusu is the highest mountain in the Tian Shan mountain system.%True
-The long horn of the narwhal is an outgrowth of his left canine.%True
-The polar bear is a very protective father.%False
-The beluga is a solitary animal and flees from its fellows except during the breeding season.%False
-Cloned animals age prematurely.%False
-Chocolate can be lethal to dogs.%True
-Elephants are afraid of mice.%False
-Vultures fly off with babies when the opportunity arises.%False
-There are 60,000 mi. (100,000 km) of blood vessels in a human body.%True
-The Great Pyramid of Cheops at Giza served as a tomb for Tutankhamen.%False
-Egypt became a province of the Roman Empire in 30 BC.%True
-Sputnik was the first satellite launched into orbit.%True
-In 1971, ARPANET, the forerunner of the internet, connected a total of 23 computers.%True
-Google�s company name originates from the mathematical term �googol�.%True
-Xerox is the true inventor of the Graphical User Interface (GUI) computers.%True
-On May 11, 1997, a computer beat world chess champion Garry Kasparov.%True
-The first website featured very detailed mathematical graphs.%False
-The original name for Pac-Man was Puckman.%True
-Alan Turing, considered as the founder of computer science, was German.%False
-In 1993, the Mosaic browser innovated by displaying text and images.%True
-The first website was put online by NASA in 1991.%False
-Silicon Valley is a suburb of Los Angeles.%False
-Time magazine named �the computer� Person of the Year in 1982.%False
-On September 1, 1939, Germany invaded France, therefore, starting the Second World War.%False
-In 1967, scientists predicted that CO2 would go on to cause climate change.%True
-The Beatles are originally from Liverpool.%True
-England's King Henry VIII had all of his six wives killed.%False
-A monk named Dom Perignon invented Champagne.%False
-Sandwich, the food item, is named after a person.%True
-Venice is made up of five islands.%False
-The Queen of England still lives at Westminster Palace.%False
-The Silk Road became the Spice Route by the 8th century AD.%False
-The United States have won more Nobel Prizes in Literature than Great Britain.%True
-Sputnik was the first satellite launched into orbit.%True
-In 1971, ARPANET, the forerunner of the internet, connected a total of 23 computers.%True
-Google company name originates from the mathematical term googol.%True
-Xerox is the true inventor of the Graphical User Interface (GUI) computers.%True
-On May 11, 1997, a computer beat world chess champion Garry Kasparov.%True
-The first website featured very detailed mathematical graphs.%False
-The original name for Pac-Man was Puckman.%True
-Alan Turing, considered as the founder of computer science, was German.%False
-In 1993, the Mosaic browser innovated by displaying text and images.%True
-The first website was put online by NASA in 1991.%False
-Silicon Valley is a suburb of Los Angeles.%False
-Time magazine named the computer Person of the Year in 1982.%False
-Brasilia is the capital of Brazil.%True
-Piranhas dont eat each other.%False
-Pele, the champion football player (football player), was president of Brazil from 1995 to 1998.%False
-The Indian Ocean is the warmest ocean to swim in.%True
-The Pacific Ocean and the Atlantic Ocean meet to the north of Canada.%False
-The Arctic Ocean is in complete darkness from November to February.%True
-There are more than 20 countries bordering the Mediterranean Sea.%True
-Most of the ocean is in complete darkness.%True
-The Amazon flows out into the Pacific Ocean.%False
-On September 1, 1939, Germany invaded France, therefore, starting the Second World War.%False
-In 1967, scientists predicted that CO2 would go on to cause climate change.%True
-The Beatles are originally from Liverpool.%True
-England's King Henry VIII had all of his six wives killed.%False
-A monk named Dom Perignon invented Champagne.%False
-Sandwich, the food item, is named after a person.%True
-Venice is made up of five islands.%False
-The Queen of England still lives at Westminster Palace.%False
-The Silk Road became the Spice Route by the 8th century AD.%False
-The United States have won more Nobel Prizes in Literature than Great Britain.%True
-The Taj Mahal was built in honor of the god Ganesh.%False
-The baby of the blue whale is as large as an adult elephant.%True
+The last World Cup (2018) was won by Portugal.%False
+Dolphins are fish.%False
+In 2020, Japan will welcome its fourth Olympic Games.%True
+The novel Frankenstein was written by a woman.%True
+The capital of Libya is Benghazi.%False
+Albert Einstein was awarded the Nobel Prize in Physics.%True
+The American Civil War ended in 1776.%False
+Morocco is in Europe.%False
+Brazil is the only country in the Americas whose official language is Portuguese.%True
+The largest planet in our solar system is Neptune.%False
+Iceland is the largest island in the world.%False
+There are 88 keys in a piano.%True
+Jupiter is the son of Zeus.%False
+The Copa America is older than the World Cup.%True
+Adolf Hitler was born in Germany.%False
+Napoleon Bonaparte was extremely short.%False
+Homer was the Greek god of wisdom.%False
+Poseidon was the god of the sea, earthquakes, and springs.%True
