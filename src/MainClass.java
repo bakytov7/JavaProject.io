@@ -6,7 +6,7 @@ public class MainClass {
     public static String[][] questions= new String[100][2];
     public static Random rand = new Random();
     public static int points = 0;
-    public static int life = 5;
+    public static int life = 6;
     public static int id=0 , ids[];
     public static Scanner input = new Scanner(System.in);
     public QuestionsDisplay qsu;
