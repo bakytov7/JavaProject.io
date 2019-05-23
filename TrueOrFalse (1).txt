@@ -88,3 +88,13 @@ The Silk Road became the Spice Route by the 8th century AD.%False
 The United States have won more Nobel Prizes in Literature than Great Britain.%True
 The Taj Mahal was built in honor of the god Ganesh.%False
 The baby of the blue whale is as large as an adult elephant.%True
+Leonardo da Vinci painted the Mona Lisa in 8 months.%False
+Penguins are found in Africa.%True
+Cats can drink saltwater.%True
+Around 50% of all oranges are used for juice.%False
+There are about 700 varieties of apples in the world.%False
+Baby giraffe begins life by falling.%True
+The long horn of the narwhal is an outgrowth of his left canine.%True
+The polar bear is a very protective father.%False
+Drinking alcohol kills brain cells.%False
+Volantis is a Free city.%True
