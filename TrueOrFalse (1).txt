@@ -37,6 +37,7 @@ There are about 700 varieties of apples in the world.%False
 Baby giraffe begins life by falling.%True
 The long horn of the narwhal is an outgrowth of his left canine.%True
 The polar bear is a very protective father.%FalseEngland won the World Cup (football)twice.%False
+England won the World Cup (football)twice.%False
 France won the first World Cup (football) in 1930.%False
 Pele is the only football player who has been world champion three times.%True
 The last World Cup (2014) was won by Brazil.%False
